@@ -1,2 +1,2 @@
 Grid interpolation algorithm to intrpolate from structured and unstructured grids.
-Check ReadMe.pdf for more information
+Check ex03.pdf for information on the task. Check ReadMe.pdf for the solution.
